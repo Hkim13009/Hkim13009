@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hkim13009
 - 👀 I’m interested in Descktop App
-- 🌱 I’m currently learning Java/Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Descktop App Develpe prjects
 - 📫 How to reach me Abdelhakim NAHILI (LinkedIn) 
 - 😄 Pronouns: Hakim
